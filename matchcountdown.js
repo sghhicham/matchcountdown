@@ -1,4 +1,3 @@
-<script>
 (function(){
   // ---- أدوات مساعدة ----
   function parseMatchDate(txt){
@@ -367,4 +366,3 @@
   document.addEventListener('DOMContentLoaded', setupAll);
   setTimeout(setupAll, 800);
 })();
-</script>
